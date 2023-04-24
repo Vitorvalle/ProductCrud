@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "64444c8efd6c2c4fa6d8c4ac",
+    "name": "Filtro de oleo",
+    "quant": 8,
+    "price": 12,
+    "createdAt": "2023-04-22T21:07:26.276Z",
+    "updatedAt": "2023-04-22T21:08:18.181Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444d30fd6c2c4fa6d8c4b1",
+    "name": "Filtro de Ar",
+    "quant": 13,
+    "price": 20,
+    "createdAt": "2023-04-22T21:10:08.981Z",
+    "updatedAt": "2023-04-22T21:10:08.981Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444d41fd6c2c4fa6d8c4b3",
+    "name": "Radiador",
+    "quant": 2,
+    "price": 400,
+    "createdAt": "2023-04-22T21:10:25.499Z",
+    "updatedAt": "2023-04-22T21:10:25.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444d68fd6c2c4fa6d8c4b5",
+    "name": "Pneu",
+    "quant": 8,
+    "price": 150,
+    "createdAt": "2023-04-22T21:11:04.156Z",
+    "updatedAt": "2023-04-22T21:11:04.156Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444d93fd6c2c4fa6d8c4b8",
+    "name": "Oleo de motor",
+    "quant": 6,
+    "price": 10,
+    "createdAt": "2023-04-22T21:11:47.242Z",
+    "updatedAt": "2023-04-22T21:11:47.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444daffd6c2c4fa6d8c4ba",
+    "name": "Cabeçote",
+    "quant": 1,
+    "price": 1000,
+    "createdAt": "2023-04-22T21:12:15.802Z",
+    "updatedAt": "2023-04-22T21:12:15.802Z",
+    "__v": 0
+  },
+  {
+    "_id": "64444dc1fd6c2c4fa6d8c4bc",
+    "name": "Turbina",
+    "quant": 1,
+    "price": 1500,
+    "createdAt": "2023-04-22T21:12:33.818Z",
+    "updatedAt": "2023-04-22T21:12:33.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "644684b8808c1dcb7a6adcf5",
+    "name": "Roda",
+    "quant": 4,
+    "price": 500,
+    "createdAt": "2023-04-24T13:31:36.956Z",
+    "updatedAt": "2023-04-24T13:31:36.956Z",
+    "__v": 0
+  },
+  {
+    "_id": "644684d5808c1dcb7a6adcf7",
+    "name": "Volante",
+    "quant": 2,
+    "price": 300,
+    "createdAt": "2023-04-24T13:32:05.377Z",
+    "updatedAt": "2023-04-24T13:32:05.377Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446850f808c1dcb7a6adcfa",
+    "name": "Correia Dentada",
+    "quant": 3,
+    "price": 50,
+    "createdAt": "2023-04-24T13:33:03.454Z",
+    "updatedAt": "2023-04-24T13:33:03.454Z",
+    "__v": 0
+  }
+]
